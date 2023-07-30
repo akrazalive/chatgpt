@@ -1,0 +1,63 @@
+CRITICAL - 2023-07-28 10:45:27 --> Undefined index: choices
+in APPPATH/Controllers/ChatGPTController.php on line 36.
+ 1 APPPATH/Controllers/ChatGPTController.php(36): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: choices', '/home/rapidfiller/public_html/codeigniter/app/Controllers/ChatGPTController.php', 36, [...])
+ 2 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\ChatGPTController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ChatGPTController))
+ 4 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-28 10:45:44 --> Undefined index: choices
+in APPPATH/Controllers/ChatGPTController.php on line 36.
+ 1 APPPATH/Controllers/ChatGPTController.php(36): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: choices', '/home/rapidfiller/public_html/codeigniter/app/Controllers/ChatGPTController.php', 36, [...])
+ 2 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\ChatGPTController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ChatGPTController))
+ 4 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-28 10:47:28 --> Undefined index: choices
+in APPPATH/Controllers/ChatGPTController.php on line 41.
+ 1 APPPATH/Controllers/ChatGPTController.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: choices', '/home/rapidfiller/public_html/codeigniter/app/Controllers/ChatGPTController.php', 41, [...])
+ 2 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\ChatGPTController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ChatGPTController))
+ 4 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-28 10:50:07 --> Undefined index: choices
+in APPPATH/Controllers/ChatGPTController.php on line 39.
+ 1 APPPATH/Controllers/ChatGPTController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: choices', '/home/rapidfiller/public_html/codeigniter/app/Controllers/ChatGPTController.php', 39, [...])
+ 2 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\ChatGPTController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ChatGPTController))
+ 4 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-28 10:52:32 --> Undefined index: choices
+in APPPATH/Controllers/ChatGPTController.php on line 39.
+ 1 APPPATH/Controllers/ChatGPTController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: choices', '/home/rapidfiller/public_html/codeigniter/app/Controllers/ChatGPTController.php', 39, [...])
+ 2 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\ChatGPTController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ChatGPTController))
+ 4 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-28 10:57:23 --> Undefined index: choices
+in APPPATH/Controllers/ChatGPTController.php on line 39.
+ 1 APPPATH/Controllers/ChatGPTController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: choices', '/home/rapidfiller/public_html/codeigniter/app/Controllers/ChatGPTController.php', 39, [...])
+ 2 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\ChatGPTController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ChatGPTController))
+ 4 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-28 11:06:26 --> Undefined index: choices
+in APPPATH/Controllers/ChatGPTController.php on line 69.
+ 1 APPPATH/Controllers/ChatGPTController.php(69): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: choices', '/home/rapidfiller/public_html/codeigniter/app/Controllers/ChatGPTController.php', 69, [...])
+ 2 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\ChatGPTController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ChatGPTController))
+ 4 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-28 11:10:56 --> Undefined variable: apiKey
+in APPPATH/Controllers/ChatGPTController.php on line 38.
+ 1 APPPATH/Controllers/ChatGPTController.php(38): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: apiKey', '/home/rapidfiller/public_html/codeigniter/app/Controllers/ChatGPTController.php', 38, [...])
+ 2 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\ChatGPTController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ChatGPTController))
+ 4 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-28 11:12:15 --> Undefined variable: responseData
+in APPPATH/Controllers/ChatGPTController.php on line 56.
+ 1 APPPATH/Controllers/ChatGPTController.php(56): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: responseData', '/home/rapidfiller/public_html/codeigniter/app/Controllers/ChatGPTController.php', 56, [...])
+ 2 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\ChatGPTController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ChatGPTController))
+ 4 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
