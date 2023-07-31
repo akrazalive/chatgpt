@@ -17,7 +17,7 @@ class App extends BaseConfig
      *
      *    http://example.com/
      */
-    public string $baseURL = 'https://rapidfiller.com/codeigniter/public/';
+    public string $baseURL = 'http://localhost/codeigniter/';
 
     /**
      * Allowed Hostnames in the Site URL other than the hostname in the baseURL.
