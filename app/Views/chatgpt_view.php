@@ -105,7 +105,7 @@
             
             <div id="responseContainer">
                <h2>ChatGPT Response:</h2>
-                <textarea rows="8" cols="50"><?= $response; ?></textarea>
+                <textarea rows="8" cols="50"><?=$response; ?></textarea>
             </div>
         </div>
 
